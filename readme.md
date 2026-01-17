@@ -25,26 +25,23 @@ Default rate analysis
 
 Impact of age, education, marriage, credit limit
 
-**Default Rate by Age Group
-**
+**Default Rate by Age Group**
 
-(images/Default Rate by Age Group.JPG)
+![Default Rate by Age Group](images/Default Rate by Age Group.JPG)
 
-**Default Rate by Martial Status
-**
+**Default Rate by Martial Status**
 
-(images/Default Rate by Martial Status.JPG)
+![Default Rate by Martial Status](images/Default Rate by Martial Status.JPG)
 
-**Default Rate by Recent Payment Status
-**
+**Default Rate by Recent Payment Status**
 
-(images/Default Rate by Recent Payment Status.JPG)
+![Default Rate by Recent Payment Status](images/Default Rate by Recent Payment Status.JPG)
 
 Payment behavior & delinquency patterns
 
-Feature Engineering
+**Feature Engineering**
 
-(images/Feature Importance.JPG)
+![Feature Engineering](images/Feature Importance.JPG)
 
 Delay count
 
@@ -62,9 +59,9 @@ Random Forest (non-linear relationships)
 
 Model Evaluation
 
-ROC-AUC
+**ROC-AUC**
 
-(images/ML model - metrics.JPG)
+![ROC-AUC](images/ML model - metrics.JPG)
 
 Precision, Recall, F1-score
 
