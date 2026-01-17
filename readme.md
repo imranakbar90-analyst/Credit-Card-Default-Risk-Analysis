@@ -86,10 +86,10 @@ Business Visualization Preview
 
 Python, Pandas, NumPy
 
-Matplotlib, Seaborn
+Matplotlib, Seaborn, Scikit-learn
 
 👤 Author
 Imran Akbar — AML & IT Project Management Professional 10+ years in Compliance, Sanctions, and Financial Crime Systems. 
 🌐 LinkedIn www.linkedin.com/in/mr-imran-akbar
 
-Scikit-learn
+
