@@ -28,23 +28,23 @@ Impact of age, education, marriage, credit limit
 **Default Rate by Age Group
 **
 
-[images/Default Rate by Age Group.JPG](https://github.com/imranakbar90-analyst/Credit-Card-Default-Risk-Analysis/blob/2c10d01332e33c5feb14a9cecdaf9d84476c0e57/images/Default%20Rate%20by%20Age%20Group.JPG)
+[[images/Default Rate by Age Group.JPG]]
 
 **Default Rate by Martial Status
 **
 
-[images/Default Rate by Martial Status.JPG](https://github.com/imranakbar90-analyst/Credit-Card-Default-Risk-Analysis/blob/2c10d01332e33c5feb14a9cecdaf9d84476c0e57/images/Default%20Rate%20by%20Martial%20Status.JPG)
+[[images/Default Rate by Martial Status.JPG]]
 
 **Default Rate by Recent Payment Status
 **
 
-[images/Default Rate by Recent Payment Status.JPG](https://github.com/imranakbar90-analyst/Credit-Card-Default-Risk-Analysis/blob/2c10d01332e33c5feb14a9cecdaf9d84476c0e57/images/Default%20Rate%20by%20Recent%20Payment%20Status.JPG)
+[images/Default Rate by Recent Payment Status.JPG]
 
 Payment behavior & delinquency patterns
 
 Feature Engineering
 
-[images/Feature Importance.JPG](https://github.com/imranakbar90-analyst/Credit-Card-Default-Risk-Analysis/blob/2c10d01332e33c5feb14a9cecdaf9d84476c0e57/images/Feature%20Importance.JPG)
+[[images/Feature Importance.JPG]]
 
 Delay count
 
@@ -64,7 +64,7 @@ Model Evaluation
 
 ROC-AUC
 
-https://github.com/imranakbar90-analyst/Credit-Card-Default-Risk-Analysis/blob/2c10d01332e33c5feb14a9cecdaf9d84476c0e57/images/ML%20model%20-%20metrics.JPG
+[[images/ML model - metrics.JPG]]
 
 Precision, Recall, F1-score
 
